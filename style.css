@@ -10,12 +10,16 @@
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
-* {
+*{
     font-weight: 400;
 }
 
-body {
+body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
+}
+
+.titulo-principal{
+
 }
